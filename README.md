@@ -13,7 +13,7 @@
 - [Обеспечение качества функционирования компьютерных систем](/content/Ensuring_quality_computer_systems_functioning/README.md)
 - [Поддержка и тестирование программных модулей](/content/SupportAndTesting_of_software_modules/)
 
-[Минимальные и рекомендуемые технические требования для рабочего места студента](https://gitflic.ru/project/rurewa/cpp/file?branch=master)
+[Минимально-рекомендуемые технические требования для рабочего пространства студента](https://gitflic.ru/project/rurewa/cpp/file?branch=master)
 
 ## Навигация по документу
 
@@ -34,12 +34,6 @@
 1. Сервис [gitflic.ru](gitflic.ru) и [Github](github.com)
 1. Создать публичный репозиторий на [gitflic.ru](gitflic.ru)
 1. **Dia** [Dia](https://ru.wikipedia.org/wiki/Dia) (не обязательно)
-1. Установить команду **Tree** в Windows:
-    - [Chocolatey - это основанный на CLI менеджер пакетов для Windows, который чем-то похож на apt-get](https://github.com/chocolatey/choco/releases?ysclid=mh035mg6en297039295)
-    - В Powershell выполнить установку приложения командной строки **Tree**:
-    ```powershell
-    choco install tree
-    ```
 1. **VSCode** [VSCode](https://code.visualstudio.com/)
 1. **Termux** (для Андроид) [Termux](https://termux.dev/en/)
 1. Компилятор **gcc** (Для Windows MSYS2) [MSYS2](https://www.msys2.org/) или [Clang](https://releases.llvm.org/download.html) - не обязательно!
